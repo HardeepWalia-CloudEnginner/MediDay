@@ -1,0 +1,12 @@
+qdrant-client
+sentence-transformers
+docling
+groq
+docling-hierarchical-pdf
+python-dotenv
+langchain-core
+langchain-groq
+langchain-huggingface
+langchain-qdrant
+qdrant-client fastembed
+docling pandas python-dotenv requests docling-hierarchical-pdfuv
