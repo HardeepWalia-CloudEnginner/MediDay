@@ -17,6 +17,7 @@ MediDay is a hybrid AI-powered medical assistant platform that combines a FastAP
 - [Usage](#usage)
 - [Environment Variables](#environment-variables)
 - [Directory Structure](#directory-structure)
+- [Unit Testing](#unit-testing)
 - [Future Enhancements](#future-enhancements)
 
 ## Project Overview
@@ -53,7 +54,7 @@ High-level architecture:
 
 ### Architecture Design Visual
 
-![MediDay Architecture Design](Diagram.png)
+![alt text](Diagram.png)
 
 ### Architecture Diagram (Text)
 
@@ -300,6 +301,32 @@ MediDay/
 ├── prerequisitepkgs.txt
 └── README.md
 ```
+
+## Unit Testing
+
+Unit tests and integration tests validate the core services and request flows.
+
+### Test Coverage
+
+- Backend API endpoint tests
+- Service layer tests for ingestion, retrieval, and RAG
+- Frontend component tests
+- Role-based access control validation
+
+### Running Tests
+
+```bash
+# Backend tests
+pytest tests/
+
+# Frontend tests
+cd Medibot
+npm test
+```
+
+### Unit Testing Overview
+
+![MediDay Unit Testing](mediday-unit-testing.png)
 
 ## Future Enhancements
 
