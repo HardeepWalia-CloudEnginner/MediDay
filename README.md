@@ -326,7 +326,8 @@ npm test
 
 ### Unit Testing Overview
 
-![MediDay Unit Testing](mediday-unit-testing.png)
+![Billing Executive](Billing_executive.png)
+![Doctor](Doctor.png)
 
 ## Future Enhancements
 
