@@ -53,7 +53,7 @@ High-level architecture:
 
 ### Architecture Design Visual
 
-![MediDay Architecture Design](mediDay-architecture-design.png)
+![MediDay Architecture Design](Diagram.png)
 
 ### Architecture Diagram (Text)
 
