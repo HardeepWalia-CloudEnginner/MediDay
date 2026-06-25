@@ -50,7 +50,7 @@ High-level architecture:
 
 ### Architecture Diagram
 
-![MediDay Architecture Diagram](architecture-diagram.png)
+![MediDay Architecture Diagram](architecture-digram.png)
 
 ### Architecture Design Visual
 
